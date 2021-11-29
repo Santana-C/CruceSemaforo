@@ -1,0 +1,11 @@
+C:\Users\Santana\Visual Studio Projects\CruceSemaforo\CruceSemaforo\bin\Debug\CruceSemaforo.exe.config
+C:\Users\Santana\Visual Studio Projects\CruceSemaforo\CruceSemaforo\bin\Debug\CruceSemaforo.exe
+C:\Users\Santana\Visual Studio Projects\CruceSemaforo\CruceSemaforo\bin\Debug\CruceSemaforo.pdb
+C:\Users\Santana\Visual Studio Projects\CruceSemaforo\CruceSemaforo\obj\Debug\CruceSemaforo.csproj.AssemblyReference.cache
+C:\Users\Santana\Visual Studio Projects\CruceSemaforo\CruceSemaforo\obj\Debug\CruceSemaforo.Form1.resources
+C:\Users\Santana\Visual Studio Projects\CruceSemaforo\CruceSemaforo\obj\Debug\CruceSemaforo.Properties.Resources.resources
+C:\Users\Santana\Visual Studio Projects\CruceSemaforo\CruceSemaforo\obj\Debug\CruceSemaforo.csproj.GenerateResource.cache
+C:\Users\Santana\Visual Studio Projects\CruceSemaforo\CruceSemaforo\obj\Debug\CruceSemaforo.csproj.CoreCompileInputs.cache
+C:\Users\Santana\Visual Studio Projects\CruceSemaforo\CruceSemaforo\obj\Debug\CruceSemaforo.exe
+C:\Users\Santana\Visual Studio Projects\CruceSemaforo\CruceSemaforo\obj\Debug\CruceSemaforo.pdb
+C:\Users\Santana\Visual Studio Projects\CruceSemaforo\CruceSemaforo\obj\Debug\CruceSemaforo.csproj.SuggestedBindingRedirects.cache
